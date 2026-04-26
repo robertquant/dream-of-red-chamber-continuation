@@ -5,7 +5,7 @@
 WORKDIR="/home/node/.openclaw/workspace/dream-of-red-chamber-continuation"
 STORY_DIR="$WORKDIR/short-stories"
 LOG="$WORKDIR/short-stories/创作记录.log"
-TOKEN="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"
+# Token已迁移至git-credentials-continuation，此处不再存储
 
 mkdir -p "$STORY_DIR"
 
